@@ -15,23 +15,23 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: pc.zhou@siat.ac.cn
+  phone:  198 6775 0375
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 
+    #city: Stanford
+    # region: CA
+    postcode: 广东省深圳市南山区学苑大道1068号(No. 1068, Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong)
     country: United States
-    country_code: US
+    country_code:
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '22.600916'
+    longitude: '113.996757'
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -42,16 +42,20 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+    #provider: netlify
+    #formspree:
+     # id:
+   # netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      #captcha: false
 
 design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+The skills required for the job include the following: neuroscience, machine learning, algorithms, statistics, signal processing, artificial intelligence, computer vision, big data, programming, visualization and other skills. Everyone has different academic backgrounds and interests. You don't need to be familiar with the above skills. Oneortwo skills are enough. We will cultivate others. We pay more attention to personal quality, self-study ability and communication ability. The  partner should achieve the following two-way matching:
++ matching personal interests with our research direction; 
++ matching personal abilities (including self-study ability) with subject tasks; 
++ matching the training system with your personal career planning;
++ matching interpersonal communication.
