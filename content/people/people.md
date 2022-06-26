@@ -18,10 +18,14 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Research Assistants
     - Grad Students
     - Administration
     - Visitors
     - Alumni
+    - Illegal Labour
+
+
 design:
   show_interests: false
   show_role: true

@@ -16,7 +16,8 @@ content:
   # Contact (edit or remove options as required)
 
   email: pc.zhou@siat.ac.cn
-  phone:  198 6775 0375
+
+ # (  phone:  198 6775 0375)
   address:
     street: 
     #city: Stanford
